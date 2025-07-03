@@ -1,4 +1,4 @@
-**Pratikkumar Ghelani**
+**Preet Tejani**
 **Junior Data Analyst | Exploring Insights Through Data | Aspiring Data Scientist | Python | SQL | Data Visualization**
 I’m an aspiring Data Analyst and Data Scientist with a passion for transforming complex data into meaningful insights that drive smarter business decisions.I’m eager to apply my skills to real-world challenges.
 My toolkit includes Python, SQL, and data visualization tools like Tableau and Power BI. I enjoy working with data to uncover trends, solve problems, and tell compelling stories that make data accessible to everyone.
